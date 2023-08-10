@@ -1,3 +1,3 @@
-import streamlet
+import Streamlit
 
-streamlet.title('Ammar First App')
+Streamlit.title('Ammar First App')
